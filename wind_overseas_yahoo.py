@@ -516,9 +516,9 @@ if __name__ == "__main__":
 
     # Stooq 海外数据
     # generate_external_long_data(end_date=CONFIG["end_date"])
-    update_external_short_data(new_end=NEW_DATE)
+    # update_external_short_data(new_end=NEW_DATE)
 
     # generate_yahoo_long_data(end_date=CONFIG["end_date"])
-    update_yahoo_short_data(new_end=NEW_DATE)
+    # update_yahoo_short_data(new_end=NEW_DATE)
 
     
